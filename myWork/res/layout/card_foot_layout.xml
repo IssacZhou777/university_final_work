@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="50dp"
+              android:background="@drawable/xml_common_cardbg">
+    <LinearLayout
+            android:id="@+id/call"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/card_foot_text_color"
+                android:textSize="@dimen/text_card_foot"
+                android:text=""
+                android:background="@drawable/call"/>
+    </LinearLayout>
+
+    <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="4dp"
+            android:background="#dfdfdf"/>
+
+    <LinearLayout
+            android:id="@+id/message"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/card_foot_text_color"
+                android:textSize="@dimen/text_card_foot"
+                android:text=""
+                android:background="@drawable/message"/>
+    </LinearLayout>
+
+    <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="4dp"
+            android:background="#dfdfdf"/>
+
+    <LinearLayout
+            android:id="@+id/delete"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/card_foot_text_color"
+                android:textSize="@dimen/text_card_foot"
+                android:text=""
+                android:background="@drawable/trash"/>
+    </LinearLayout>
+
+    <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="4dp"
+            android:background="#dfdfdf"/>
+
+    <LinearLayout
+            android:id="@+id/share"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/card_foot_text_color"
+                android:textSize="@dimen/text_card_foot"
+                android:text=""
+                android:background="@drawable/share"/>
+    </LinearLayout>
+
+</LinearLayout>

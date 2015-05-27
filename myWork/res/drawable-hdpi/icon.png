@@ -1,0 +1,359 @@
+dName="Revert Commit" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSqX7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.comment" commandName="Comment" description="Turn the selected lines into Java comments" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSqn7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.correction.addNonNLS" commandName="Quick Fix - Add non-NLS tag" description="Invokes quick assist and selects 'Add non-NLS tag'" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSq37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.format" commandName="Format" description="Format the selected text" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSrH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.debug.ui.commands.Display" commandName="Display" description="Display result of evaluating selected text" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSrX7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.RepositoriesViewCreateRepository" commandName="Create a Repository" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSrn7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.file.revert" commandName="Revert" description="Revert to the last saved state" category="_C8SXuH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSr37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.folding.collapseMembers" commandName="Collapse Members" description="Collapse all members" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSsH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.gotoBreadcrumb" commandName="Show In Breadcrumb" description="Shows the Java editor breadcrumb and sets the keyboard focus into it" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSsX7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.scroll.lineDown" commandName="Scroll Line Down" description="Scroll down one line of text" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSsn7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.clean.up" commandName="Clean Up" description="Solve problems and improve code style on selected resources" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSs37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.redo" commandName="Redo" description="Redo the last operation" category="_C8SXwX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lStH7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.SimpleFetch" commandName="Fetch from Upstream" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lStX7TEeSJNMy08JiC8Q" elementId="org.eclipse.debug.ui.commands.StepInto" commandName="Step Into" description="Step into" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lStn7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.commit.Checkout" commandName="Checkout" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSt37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.join.lines" commandName="Join Lines" description="Join lines of text" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSuH7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.search.finddecl" commandName="Find Declaration" description="Find Declaration" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSuX7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.scroll.lineUp" commandName="Scroll Line Up" description="Scroll up one line of text" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSun7TEeSJNMy08JiC8Q" elementId="org.eclipse.debug.ui.commands.TerminateAndRelaunch" commandName="Terminate and Relaunch" description="Terminate and Relaunch" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSu37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.externalize.strings" commandName="Externalize Strings" description="Finds all strings that are not externalized and moves them into a separate property file" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSvH7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.file.print" commandName="Print" description="Print" category="_C8SXuH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSvX7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.navigate.forwardHistory" commandName="Forward History" description="Move forward in the editor navigation history" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSvn7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.debug.ui.breakpoint.properties" commandName="Java Breakpoint Properties" description="View and edit the properties for a given Java breakpoint" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSv37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.select.pageUp" commandName="Select Page Up" description="Select to the top of the page" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSwH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.add.import" commandName="Add Import" description="Create import statement on selection" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSwX7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.CompareWithPrevious" commandName="Compare with Previous Revision" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSwn7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.extract.interface" commandName="Extract Interface" description="Extract a set of members into a new interface and try to use the new interface" category="_C8SXzX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSw37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.help.dynamicHelp" commandName="Dynamic Help" description="Open the dynamic help" category="_C8SXx37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSxH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.search.read.access.in.working.set" commandName="Read Access in Working Set" description="Search for read references to the selected element in a working set" category="_C8SXwH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSxX7TEeSJNMy08JiC8Q" elementId="org.eclipse.debug.ui.commands.RunLast" commandName="Run" description="Launch in run mode" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSxn7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.copyLineUp" commandName="Duplicate Lines" description="Duplicates the selected lines and leaves the selection unchanged" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSx37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.correction.addCast" commandName="Quick Fix - Add cast" description="Invokes quick assist and selects 'Add cast'" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSyH7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.commit.CreateBranch" commandName="Create Branch..." category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSyX7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu" commandName="Show Refactor Quick Menu" description="Shows the refactor quick menu" category="_C8SXzX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSyn7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.navigate.removeFromWorkingSet" commandName="Remove From Working Set" description="Removes the selected object from a working set." category="_C8SXwX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSy37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.debug.ui.javaAppletShortcut.debug" commandName="Debug Java Applet" description="Debug Java Applet" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSzH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.run" commandName="Run Java Application" description="Run Java Application" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSzX7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.ReplaceWithCommit" commandName="Replace with commit" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSzn7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.DeleteBranch" commandName="Delete Branch" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lSz37TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchHierarchy" commandName="Toggle Branch Representation" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS0H7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.ApplyPatch" commandName="Apply Patch" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS0X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.showRulerAnnotationInformation" commandName="Show Ruler Annotation Tooltip" description="Displays annotation information for the caret line in a focused hover" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS0n7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.folding.collapse" commandName="Collapse" description="Collapses the folded region at the current selection" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS037TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.text.c.source.quickMenu" commandName="Show Source Quick Menu" description="Shows the source quick menu" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS1H7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.navigate.gotopackage" commandName="Go to Package" description="Go to Package" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS1X7TEeSJNMy08JiC8Q" elementId="org.eclipse.wst.sse.ui.structure.select.next" commandName="Select Next Element" description="Expand selection to include next sibling" category="_C8SXwX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS1n7TEeSJNMy08JiC8Q" elementId="org.eclipse.equinox.p2.ui.sdk.install" commandName="Install New Software..." category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS137TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.window.nextView" commandName="Next View" description="Switch to the next view" category="_C8SXsX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS2H7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.project.buildLast" commandName="Repeat Working Set Build" description="Repeat the last working set build" category="_C8SXtH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS2X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.goto.textStart" commandName="Text Start" description="Go to the beginning of the text" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS2n7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.junit.junitShortcut.run" commandName="Run JUnit Test" description="Run JUnit Test" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS237TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.file.properties" commandName="Properties" description="Display the properties of the selected item" category="_C8SXuH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS3H7TEeSJNMy08JiC8Q" elementId="org.eclipse.search.ui.openSearchDialog" commandName="Open Search Dialog" description="Open the Search dialog" category="_C8SXwH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS3X7TEeSJNMy08JiC8Q" elementId="org.eclipse.debug.ui.actions.WatchCommand" commandName="Wa&amp;tch" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS3n7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.file.openWorkspace" commandName="Switch Workspace" description="Open the workspace selection dialog" category="_C8SXuH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS337TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.pull.up" commandName="Pull Up" description="Move members to a superclass" category="_C8SXzX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS4H7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.moveLineUp" commandName="Move Lines Up" description="Moves the selected lines up" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS4X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.ide.configureFilters" commandName="Configure Contents..." description="Configure the filters to apply to the markers view" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS4n7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.open.outline" commandName="Show outline" description="Shows outline" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS437TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.correction.assignToField.assist" commandName="Quick Assist - Assign to field" description="Invokes quick assist and selects 'Assign to field'" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS5H7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.modify.method.parameters" commandName="Change Method Signature" description="Change method signature includes parameter names and parameter order" category="_C8SXzX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS5X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.copyLineDown" commandName="Copy Lines" description="Duplicates the selected lines and moves the selection to the copy" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS5n7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.open.call.hierarchy" commandName="Open Call Hierarchy" description="Open the call hierarchy for the selected element" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS537TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.find.broken.nls.keys" commandName="Find Broken Externalized Strings" description="Finds undefined, duplicate and unused externalized string keys in property files" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS6H7TEeSJNMy08JiC8Q" elementId="org.eclipse.wst.sse.ui.cleanup.document" commandName="Cleanup Document..." description="Cleanup document" category="_C8SXwX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS6X7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.uncomment" commandName="Uncomment" description="Uncomment the selected Java comment lines" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS6n7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.remove.occurrence.annotations" commandName="Remove Occurrence Annotations" description="Removes the occurrence annotations from the current editor" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS637TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.correction.addBlock.assist" commandName="Quick Assist - Replace statement with block" description="Invokes quick assist and selects 'Replace statement with block'" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS7H7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.goto.wordNext" commandName="Next Word" description="Go to the next word" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS7X7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.history.CherryPick" commandName="Cherry Pick" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS7n7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.ConfigureUpstreamFetch" commandName="Configure Upstream Fetch" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS737TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.Merge" commandName="Merge" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS8H7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.text.c.toggle.comment" commandName="Comment/Uncomment" description="Comment/Uncomment the selected lines" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS8X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.navigate.up" commandName="Up" description="Navigate up one level" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS8n7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.introduce.parameter" commandName="Introduce Parameter" description="Introduce a new method parameter based on the selected expression" category="_C8SXzX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS837TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.correction.splitJoinVariableDeclaration.assist" commandName="Quick Assist - Split/Join variable declaration" description="Invokes quick assist and selects 'Split/Join variable declaration'" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS9H7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.history.ResetQuickdiffBaseline" commandName="Reset quickdiff baseline" category="_C8SXwn7TEeSJNMy08JiC8Q">
+    <parameters xmi:id="_C8lS9X7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.history.ResetQuickdiffBaselineTarget" name="Reset target (HEAD, HEAD^1)" optional="false"/>
+  </commands>
+  <commands xmi:id="_C8lS9n7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.submodule.add" commandName="Add Submodule" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS937TEeSJNMy08JiC8Q" elementId="com.android.ide.eclipse.adt.refactoring.changeview" commandName="Change Widget Type" description="Changes the widget type for the selection" category="_C8SXun7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS-H7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.make.ui.targetBuildCommand" commandName="Make Target Build" description="Invoke a make target build for the selected container." category="_C8SXtH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS-X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.window.hideShowEditors" commandName="Toggle Editor Area Visibility" description="Toggles the visibility of the editor area" category="_C8SXsX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS-n7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.window.closePerspective" commandName="Close Perspective" description="Close the current perspective" category="_C8SXsX7TEeSJNMy08JiC8Q">
+    <parameters xmi:id="_C8lS-37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.window.closePerspective.perspectiveId" name="Perspective Id"/>
+  </commands>
+  <commands xmi:id="_C8lS_H7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.project.rebuildProject" commandName="Rebuild Project" description="Rebuild the selected projects" category="_C8SXtH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS_X7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.move" commandName="Move..." description="Move the selected item" category="_C8SXuH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS_n7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.text.c.surround.with.quickMenu" commandName="Surround With Quick Menu" description="Shows the Surround With quick menu" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lS_37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.clear.mark" commandName="Clear Mark" description="Clear the mark" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTAH7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.text.c.goto.prev.member" commandName="Go to Previous Member" description="Move the caret to the previous member of the translation unit" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTAX7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.generate.tostring" commandName="Generate toString()" description="Generates the toString() method for the type" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTAn7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.team.ReplaceWithHead" commandName="Replace with HEAD revision" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTA37TEeSJNMy08JiC8Q" elementId="org.eclipse.debug.ui.commands.OpenProfileConfigurations" commandName="Profile..." description="Open profile launch configuration dialog" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTBH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.open.external.javadoc" commandName="Open Attached Javadoc" description="Open the attached Javadoc of the selected element in a browser" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTBX7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.cheatsheets.openCheatSheet" commandName="Open Cheat Sheet" description="Open a Cheat Sheet." category="_C8SXx37TEeSJNMy08JiC8Q">
+    <parameters xmi:id="_C8lTBn7TEeSJNMy08JiC8Q" elementId="cheatSheetId" name="Identifier"/>
+  </commands>
+  <commands xmi:id="_C8lTB37TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.RepositoriesViewOpen" commandName="Open" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTCH7TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchCommit" commandName="Toggle Latest Branch Commit" category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTCX7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.debug.ui.command.castToArray" commandName="Cast To Type..." category="_C8SXu37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTCn7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.contentAssist.contextInformation" commandName="Context Information" description="Show Context Information" category="_C8SXwX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTC37TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.history.CompareVersions" commandName="Compare with each other" category="_C8SXwn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTDH7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.browser.openBrowser" commandName="Open Browser" description="Opens the default web browser." category="_C8SXsX7TEeSJNMy08JiC8Q">
+    <parameters xmi:id="_C8lTDX7TEeSJNMy08JiC8Q" elementId="url" name="URL"/>
+    <parameters xmi:id="_C8lTDn7TEeSJNMy08JiC8Q" elementId="browserId" name="Browser Id"/>
+    <parameters xmi:id="_C8lTD37TEeSJNMy08JiC8Q" elementId="name" name="Browser Name"/>
+    <parameters xmi:id="_C8lTEH7TEeSJNMy08JiC8Q" elementId="tooltip" name="Browser Tooltip"/>
+  </commands>
+  <commands xmi:id="_C8lTEX7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.generate.hashcode.equals" commandName="Generate hashCode() and equals()" description="Generates hashCode() and equals() methods for the type" category="_C8SXzH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTEn7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.introduce.indirection" commandName="Introduce Indirection" description="Introduce an indirection to encapsulate invocations of a selected method" category="_C8SXzX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTE37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.navigate.gototype" commandName="Go to Type" description="Go to Type" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTFH7TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.select.columnNext" commandName="Select Next Column" description="Select the next column" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTFX7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.text.c.select.last" commandName="Restore Last C/C++ Selection" description="Restore last selection in C/C++ editor" category="_C8SXwX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTFn7TEeSJNMy08JiC8Q" elementId="org.eclipse.wst.sse.ui.goto.matching.bracket" commandName="Matching Bracket" description="Go to Matching Bracket" category="_C8SXy37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTF37TEeSJNMy08JiC8Q" elementId="org.eclipse.ui.edit.text.upperCase" commandName="To Upper Case" description="Changes the selection to upper case" category="_C8SXv37TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTGH7TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.debug" commandName="Debug Java Application" description="Debug Java Application" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTGX7TEeSJNMy08JiC8Q" elementId="org.eclipse.debug.ui.commands.DropToFrame" commandName="Drop to Frame" description="Drop to Frame" category="_C8SXuX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTGn7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.ui.edit.text.c.format" commandName="Format" description="Format Source Code" category="_C8SXxH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTG37TEeSJNMy08JiC8Q" elementId="org.eclipse.egit.ui.RepositoriesViewNewRemote" commandName="Create Remote..." category="_C8SXvH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTHH7TEeSJNMy08JiC8Q" elementId="org.eclipse.search.ui.openFileSearchPage" commandName="File Search" description="Open the Search dialog's file search page" category="_C8SXwH7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTHX7TEeSJNMy08JiC8Q" elementId="org.eclipse.cdt.debug.ui.command.resumeWithoutSignal" commandName="Resume Without Signal" description="Resume Without Signal" category="_C8SXxX7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTHn7TEeSJNMy08JiC8Q" elementId="org.eclipse.team.ui.synchronizeLast" commandName="Repeat last synchronization" description="Repeat the last synchronization" category="_C8SXxn7TEeSJNMy08JiC8Q"/>
+  <commands xmi:id="_C8lTH37TEeSJNMy08JiC8Q" elementId="org.eclipse.jdt.ui.edit.text.java.extract.local.variable" commandName="Extract Local Variable" description="Extracts an                                      ץץץ  ‎‏‎ ÿ‏ÿ פפף ױ../‘ֶֶַ'	üüü תתת     ÿÿÿ      ÿ   ר    ערע נתע ‏
+ תüת   û ûרץ ‏û  ÿ  עם üצף     û ÿ ף ‎ לש ם
+ ן 	 תÿÿ Þעפ ם û 
+    üױװװ8₪ccc¬­­ÿ       ÿÿÿ ÿÿ‏  üÿ  ÿ  ‎‏ ‏ÿ רקק ץןפ  ÿ‎ר   üüר ריע 	‎ 	
+ ßבÚ ü‎ץ רת לנ ֿׂמ E=	 שÛ 
+ü  נסק מצנ   שûס קצמ ׀׃Û ‎ÿ  פר‏   ‎ ַססנ ûûת ‏‏‏    ÿ ûûת ררר                                                                          ‏‏‏ DDC 
+
+
+   ÿ  ‎‎‎ רררÿWWW· ©ֱֱִj   ÿ  ÿ     ÿÿ   ‏  ÿÿ ûרש üÿ  	ÿ דמט 
+מה  	 םתע ÿ שÿף ü 
+  ûü סטח שכי ÿתק  ÿ ץ‏  ד‏פ ־סח ק 
+ םעס ׳תמ ם ÿ שÿÿ ‏תû  ‎ת דאב)צץצÛÛÛ‏‎‎)ÿ  ‏‏  ûתû ÿÿ ‎‎‏    ÿü‎ ÿü‏ רנף פßף ,  
+ עת‎ ûנ üש    ‏טכ זװÙ ‏צק  ר‏ ת û ×§ּ & = #!# םעס ףû ש     נז ְְֶ םמ   ךןץ û‎ ת"ֲ63;÷ןםצשûרי ‎‎‎   ÿ ףףת  $$+   ûûת                                                                         ‏‏‏ LLL ûûû תתת          555ףטטי¦ֻֻ־2ררר0‏         ÿÿÿ   ÿ ‎ÿÿ  ת  ת רהÛ י׳ֽ  #	 קמנ  ü ‎‎ רנ ûלך ח״ֹ ץיד  שק     ÿ û‎  חüü ַיד Úנל  םןס עüש ל צתת ‏תÿ  צקצQQQÿׁׁׁ&תתת ‎‎ÿ  ‎ ÿ‏ÿ ‏‏‏  ‎‏  ‎  רעפ Þָ״   % 	 קר ‏ת 
+  ‎עי װֶׂ פטך  ץû 
+	 צפק µ´ז "#» X_ÿ     ‏ü ! מם ÷¼ִ ˜ג קש‏ ‏û   ‏‎µ($.״ןןמ לרע        ממפ       ֵֿֿ üüü                                                          ‏‏‏ ‏‏‏                     ׃
+
+	²ששק.        ÿÿÿ  ‏ÿÿ   ÿ ת ‎ ‏םט לױֽ Û שץ  
+   םס רךß נÞÜ כ׳ֿ רף ÿ ÿûש ü   ף ÿ צ ‎ גפפ רפ ץת     ûת‎ ÿûÿ  ש  רPQPײײײ+  ÿÿÿ   ÿ   ‏ ‎     ÿ‏ ‎û‎ עÞן ÙÙ  ןע #  ûר נלנ זג׃ ב׀ב 	 שû 	 ‎üÿ ליק ₪ו ״׳ %" 212 	 ­ױא ֶַֻ Ù׳כ ßÚ  ש‏ÿ  ץשרףױְִֶ‏‏‏‏                           ÿ צקש  ררק                                               צצצ   ›  ÿÿ                   מממעװרתרשקצצ
+             ÿ  ‏‏ ר  ‏ק ‎ת ת ÿÛÜ ספü ‏ׂÛ "' ק ‎ ןכח םד׳ ץטג שדß 	  קשצ ÿÿ ÿ  ‏ÿ ר‏ ÿ ‏ ש   ‏ ‏ û‎ )׀׀׀)הוה%ü‎‎ 	 üüû                  ‏‏‎  ‎  נÝכ ֿנמ ׃Ü ‏  ûמû תףא ‏üÿ  
+ שפש  צתס ÝÜץ חיף ׁ ¦ Ü ûת שצצ ץפץ ת‎   ת‏‎  קקש‏¯rqsֳממם                                   ‏ ­®©                                             קקק AA@ ""      ûûû ‏‏ÿ                   ÿÿÿ  ְ’””±Ú״Ú] ‎            תÿ‎ ‎    רפ  פאÞ ציף לױÛ ÿ 
+ üפמ ‎נה  ‏ץ  ‏ש  ‎ÿ   ÿ ÿ‏ÿ ‏ ÿ ‏ÿ üÿÿ üÿ   ÿ     ‎תü צשü 
+ 
+ ûפצ ‎‏‎ÝÜÝ!שרש üÿÿ ‎ 	 ÿשת ‎‎‎   ררק ‎ÿ‏ 	 ת  ת ‏ו  
+ ץקק ףרפ ü פÿ תץר   קפ שקצ  	
+ ררÿ חי  ‎‎ע  ÿÿ     שקץ  ‎ü ץעמû+#Þש                                      שûק ‎‎‎                                             ‎‎‎ 
+
+
+ ‎‎                                         ףÞ ‏ÿ‏‎ ÿü‎  ü‎ÿ  û ‎‏ü ת ÿ‏û  
+   כ üץח üע‎ ÿיÿ     ÿ רסף ü‏û     ‎ ‏  ÿ ‎ר‎ û      ÿ‎‎ םüף ‏‎  חחחקררתûת  ûüû תתת   ‏ÿÿ ‏‏      ‎‎‏ ‏ÿÿ ('     שûת ףקע ßטÝ ײגÙ ועז üûü   תû‎  û‏    ÿÿ   ‏     ÿ   ÿ  ÿÿ‏   ץצצןַ„ ÿÿ                                            ÿ    )'' ‎‎‎ ÿÿÿ                     ÿÿ  ÿÿÿ **( קקף ¨¨¥                                                 ֶÛךססף   ףףצ  ü     ‎ ÿ ûûü ‎‎ ÿ ÿ ‏‏‏  ÿ‎ ÿ‎‏  ÿ   ÿÿ  ÿü‏ ÿÿ‏ ÿÿ         ÿÿÿ     ÿÿÿ      ‏ÿ       ‏ÿ‏ ‏ÿÿ ÿ ÿ  ווו&üûû  שתש üü‎ ÿÿÿ  ‏‏‏ ‏‏‏      ‏‎‏  ,*  ü ü 	   ‏תת פצן ףûץ   ÿ ‎ ‏û     ü  ÿ  ÿÿÿ  ÿ      ÿ    üÿ‏  ÿ  ÿÿ‏ זNNMּףףפ                                                      ׀ׁׂ û‎‎ ÿÿÿ                 ששש ''% FGC צצק                                                     			ֶקקקײװױqנננקשüÿ‏‏ÿ‏ÿÿ‎‏‏  ÿÿ ‎   û‏ÿ ÿÿÿ ÿÿÿ  ‏ ‏ ‏ÿ ‏ÿ‎ ÿ‎   ‏ÿ‏‏ ÿÿ  ÿÿÿ         ÿÿÿ     ÿÿ    ÿ ÿÿÿ     ÿÿÿ  ÿÿ  ÿ  רשש ךךך ‎‏‎          ‏‎‎       ‏ÿ‎ '"'   üץû üתû ‏ ü‎ש  ! טעט ÛטÞ û‏‏  ‏     ÿÿÿ ‏ÿ    ÿ          ÿÿ    ÿ םםםÿ&()ַ?>?קןןן                                                       ÿ ?>> ´·¸ û‎‎                     ÿÿÿ ‎‎‎ ‏‏‏                                                     פפפקYYY˜ֱֲֲֲֳֳֶ=אאד  ק
+‏ûüשÿ     ÿÿ  ÿÿÿÿ    ‏‏‏‏‏ÿÿ ÿÿ     ÿ‏ÿÿÿ‏ÿÿ             ÿÿÿ     ÿÿ  ÿ         ÿÿÿ ÿÿ ‏ÿ  ü‏‎‏‏ÿ‏ ûûû ‏ÿÿ ÿÿÿ ÿÿÿ   ÿÿÿ        ת ש‏   û‎ת ש‎ÿ ‎   ל טכז ן‎ץ  ûÿ‏ ÿüû  ‎ÿ‏     ÿ  ÿ            ûûüÿץפף ³³³ ץץץ                                                          ֿׂ׃ ;==              ÿÿÿ ‎‎‏                                                              ץששרַüüüַ‏ÿÿ ‏‏‎ ÿÿ‏  ‏‏  ‏‏    ÿ    ÿÿ‏     ÿÿ  ‏‏‎ ‏ÿÿ  ÿÿ     ÿ ‏‏ÿ ÿ‎ ÿÿ              ÿÿÿ     ÿÿ             ÿÿÿ ÿÿ  ‏ÿ     ‏               ‏ÿÿ ‎ü‎ ÿÿ 	
+   ûר‎ û‏ ‎ü ת‏ü   ‎‏‏   ‏ÿ ÿ   ÿ  תû‏  	  ÿÿ          ÿ    ‏‏‎ ü‎‏ ßגדost                                                                     סעע egg    
+ננ    תשû üü‏                                                      ÙÙÛ   ץ 
+
+	  ‏‎‏     ÿÿ ‏ÿÿ     ÿ  ÿ     ‏ÿ  ÿ‏‎   ÿ  ÿ‎        ÿ        ÿÿ     ÿÿ               ÿÿ ÿÿ  ‎‏ÿ     ÿ  ‏‏‎ ‏ÿÿ     ÿÿÿ  ‏ÿÿ קüק ÿ  פףצ   ‎ק  שקש ‏‏  ‏ü‏ שץר סנס ש‏ש  ü ‎ÿü   ‎‎ ÿÿ          ÿ   ÿ   üÿ ûתת    ÿ                                                                    µµµ  ‏  תüש כמנ ‎‏ ABB קקש ‎‎‎                                                      ַַֻ ==?  ûüÿ   ףפס ÿ   ‏‏ ‏üü   ‏ÿ‏ ‏û‎  ÿ  üüü ü ÿ   ‎   ÿ      ÿ ÿ      ÿÿ                        ÿÿ     ü‎‏ ששת ‎ü‎ ÿÿÿ      ÿ‏‏ ‎‏‏ ÿÿÿ   רשר Úהß  ‏ 
+	 üü‎  ‏ÿ ‏ טסנ זןם û תÿ‎ û‎‏  ÿÿ  תüÿ    ÿÿÿ     ÿ  ÿÿ  ü  ‎ÿ                                                                      ÿ    ·µ· ת      ק    CED                                                            5  ÿש  ÿת ÿ    ü     ÿ  ü     ‎   ‏ ‎ÿÿ        ÿÿÿÿ                                              
+ ‏        ‏ÿÿ ÿÿÿ  ‏ÿ  ‏‏‏ ÿÿÿ   ררר ÙחÜ )"+ " תןת  צרצ  לקכ ױÜÙ ינל ‏ÿ ‎  üÿ‏  ‏ת‏          ‎‎‏ ‎‎ÿ ‏ÿÿ תתת  צשתÿשTTT ררר                                                     ÿ   	 ²¬¬ טטז   ûÿ   תÿ  ÿÿÿ                                                                 
+9««¬KהדגYûüüü		
+‎ ףםן ‏ ‎‏‏‎‎ ÿ‏ÿÿÿ   ÿ‏û‏‎‎‏‏ÿ‏üü‎ÿ‎            ÿÿ     ÿÿÿ         ÿÿ     ÿÿÿ üü‏ׂûüûü  ‏‏‏ üüü  ÿ‏‏ ÿÿÿ     ÿÿÿ ÿÿÿ  ץÿצ µֹ¶ %ח& ( (   ÊאÙ ײÞ׃ ÜיÝ ןüס     ÿ ‏‏ÿ ÿ 	 ‏ÿ‏ קû‎ ‎‏‏  ÿÿ   ‏‏û   ‎üת 
+		A@@עעעü                                                    ‏ 
+ ֻ¹¹ זח                       ‎ü‎                                                     ÛÚÙYײ׳ײc
+		 üרר לנן  תüü  ‏ÿ ÿ‎‏     ‏ÿ‏      ü‏‎ ‎      רתü  ÿ                      ‏‏ÿ               ÿÿ      ‏ÿ  üÿ‏ÿ ‎‎‎     ‎‎‎    ÿÿÿ                 ‎‏‎ חפט ץÜר כםמ םפל  פץק ךסח ק‎ת û ‏  ‏ÿ‏ ÿÿÿ  ÿ   ‎‏ת ü‎‏ ‎üü      תתת 
+ממןB´´´*רררׂ                                                ÿ תנף K:; ÿ                      זהח ´³µ ‏ ü ÿÿÿ                                                 FבבאT
+
+ צצצ  ÿ‏  ‏ÿ   ÿ   ‎‏ ÿ  ‏ÿ ÿÿÿ ת‎ü   תüû תû‎      ÿÿÿ ÿÿÿ         ÿÿÿ     ÿÿÿ                  ÿÿÿ  מתתשת ררר 		
+  תשש        ÿÿÿ     ÿÿÿ שצ ÿ  משם רמת  ״כß פשר  קשû ‏   ‏  ת‏ ü  ü û‏ קÿ  
+ ÿ‏  ü‎ ‏‏û תûÿ ÿ  צתש ÷¸·@ׂÿÿÿ                                      ‎ÿÿ ‏רû   ::                       ‏‏‏ ײװ״ 440 LKI פץפ                                         ¢₪¢,ûשü‎ÿ ûüû ‏ÿ ‏‏‏    רûÿ ‏ÿü ÿ  ÿ   ÿ  ÿÿ       ÿ‏  ‏‎ü ‏  ÿ   ü‏‎ üÿ‎ ÿÿÿ ÿÿÿ ÿÿÿ          ÿÿÿ                  ÿÿÿ ‏ טךנןנ ‏ÿ‏   ÿÿ ÿÿÿ             ÿÿÿ תüÿ 	 ÿ ‏‎ÿ חכז ü ‎ 	 רתק üûת           ‎  ‏‏ÿ ÿ ÿü‎ ת‎ü  ‏‎  ‎‏  ÿ    ‎‎ü  צקקA?Aצצץ‎                                
+ ױ״Ü Êְֵ                                 ‎‎‎     ‎‎‎ ‏‏‎  ÿ                        ÿ  עעפ#‏רר  
+ üüû ‏ûü שû  ‎ûû    ‏ÿ ÿÿ   ÿ‏‏ û‏ü   
+  ü‎‎ ûûû ‏ÿ‏  ÿ  ÿÿÿ        ÿÿÿ              ÿÿÿ     ררר ÜÚÛÝÜ  ששש            ÿ   ÿÿÿ   פפü 
+  קשû  יכח זזמ    ‎ ÿ ת  ‏  ‎  ף ש ‏   ‎ ÿüü ‎ûת ÿ‎‏ ‎ ‏   שûקü‎‎ÿ'/־‏‎‏                         ÿ ÿ ףפפ ררש                                              
+ ½ְֲ עצû 	 ‏ü   ÿ ÿ                  ררצ ץףס5מללLרשצ  סעק 
+  ‏‎     ‏ ‎ü‏      ÿÿ        
+ ‏  ףקץ ץרר ûרצ    ÿ  ÿÿ‏ ÿÿÿ     ÿÿÿ ÿ     ‏‏ÿ   ÿÿ        ÿÿÿ         '''׳ג  שתת ‏‏   ÿ ÿ   ‏ÿ‏   üûü ‏ף‏ 
+ TXU BEM (+- ץצפ ¶¼¹ ²²® Ú״׃ ‎‎‏ ûÿ ‏‎ ü  ש üÿ 
+ (,   נממ טÞ״ צטג ‏ûף  שרצ ßדהMקקר±roq־טטט ‏ÿ‏            ÿ‏ÿ  üÿ‏ ¥±¯ Êֶֻ                                                    	 ׳ÛÚ =:9 fp€ 	 ‏‏‏                 	 ײ־ֱ„x+‏רק "  *&' דחח לןע אוכ ץקû קü‎ ÿÿ ÿ ü ÿ ÿ     1,.   יםכ ױßÚ זןכ üÿ    ‏ ‏ ‏‎  ÿ‏‏     ÿÿ‏ שû‎           ûüÿ ‏‎ÿ      ץ   ז"##גןÿ ‏‏‎ ûûû ÿ      תשü   ררר #  `Y^ o‹  ע      :62 FA5 |jm ױׁÙ  ÿ‏ ש ף ף   (9< Fa ÿ ÿ לס ׳ֱ ב¿© רבִ ‎ש ‎ÿÿ ת ֿׂׂJֵֵֵ¼ך
+
+
+ ‏‏‏          ׁױ׀ עץר                                                                ‏‎‎  ÿ‏‏ üûû ûûû         
+ ללמ#ןךכI‏שpI+ 6.  ך‏ ח ³ֻÙ °¯ֱ פןצ      û‎ 	 $ 7 , 7' פףפ  ‎) 
+ ÊזÚ ֿהÛ  ם   ûק  
+   ÿ üüÿ  */&  ׳׳ב דגי קק‎ 	 ÿ ‏‎ÿ ‏ת ׂ###ה   בתתתÚ ÿ   ÿÿÿ   ‎‎‎  ÿ‏‏ ששש  "# k‚} 
+ רÿ  ר‎û נ‎ר נ‎ü >9D UY\  ‏ û‎ÿ ‎  (39 (FL פ‎ü עקק חםך 	 .22 #%    פץ‎ װ׳׳V‘“Rססצ‏ÿ תû  תû  תû   ³»°  §¦                                                                       ¶²× ְּּ גדײ  ץ  צ ü‏ס ףףח בגװ¶³®`לממHWD&7*  
+	 צגא יז %û F E,#    ÿ 	 $   סץע û û קתץ פקף  +'&       תü ü‏ÿ  ^c:  f ™] “˜S FH' ץק  üû  ‎‏ ÿ°°°צ­­­פ
+
+
+û‏‏‏         ‏‎‎  ‏‏‏ שתש 	 /+   ךלמ û    
+ ‎üת û‎û JMO  ‎   ÿ  ÿû  ÿ  û נ ץ ‎ ש ף‏  */ 
+ פץû 
+	 שת‏ פץר נןןYםםכ( 
+		 
+
+
+   ÿ  
+	  ÿÿÿ                                                                     	 ¢“ ¾¾­ ÙÜÊ ף  ף ‎ÿנ ץ ְֱ°*ְֱ·]C9, ‎ כב üע "תנ ײֻ 8ף G)# ÿ        ‎ÿ   ÿÿ  ‏ÿ 	   תרק   		 ‏צ	 ûצ	 תû    bhM 	פ ין׳ */ =@,   ‎û צע  ם³³³ װװװ‎ÙÞÝÞ<          ÿ‏‏  ÿÿÿ ‏ÿÿ   ‏    ü‏ ‏קת   ‏ ÿ‎‎ #&& פûת ש ÿ 	 ûÿ üקש צלס ÿתü  קתû  ‏ ÿ‎ עץף    שü פעת 
+    ÿÿעףק>©¬©wךליnסÿ‏ÿ כםל W\R                                                                              ÿÿÿ  
+
+   ÿ  זםח §¡£ ÞÜÚ
+ת ןנן ף תרû ÿü‏     דמ תûÿ    ‏     	  ÿÿ ûÿü ש‏ר ‏ÿ    üקק ÿü 
+ ‏  צרף  םןמ זזû  ûüך      
+	 ‎צ
+ ûü üÿü 111ְשJJJû333¿שתשב‏‏‏ ‎‎‎ ÿÿÿ ÿ    ‎‎‎   üüû Üךו מûק     ‏‏   ¾ְֱ ‏  ‎ ץצצ תקש  ‏ ש ü ‏ ףשת   װ״Ù רû‏ 	 תû‏ 	  פץק 	 ֽׁ־E½½÷\ÞאÝÚÛײ Ê־ָ üüü                                                                                                ÿÿ‎ְֱ¿eÜ׳Ú/üממ  גÞך        רךו גײׁ     ‎ÿ  ‎ תתש פסס שרק  שתת שתק   סממ ןןל ץûר ‎ü  סנפ ‏‏ü ü ִִ» ûüצ 	
+ םמט ׳״ß ךלÿ רר‏ ûû פשרדCDD¼QRQ‎‏ֱךüüû    ‎‎‎   רקר ׳ֽֿ µ¹° YIS  ש  ÿÿ 	 פםמ  דךה ‎‏‎  ת  קפך Üֶֿ /,$ '  רû ûכ ןß ד־ָ  ןם üתת  רפש ר‎‏  צתק ״ÞÛf!ס§		‎                                                                                          קצק weu אהה—‎ץM  
+‏
+ תע ¶ױג $! !, ץפפ 
+
+  Êֿׁ ÷ßם üü ‎   ‎üû    ףקצ וכי 
+     û
+ ü משס חםך üשû ÿ קשט עû ת  כחן {s· TUן  װװÜ ·³״ רר  ü‎נ ‏שץיח ¬¬¬ ÿÿÿפןםכל  üüü ÿ    ûûû   קשק עסן zwt נש WNV 	  ß׀Ù ’— ²³´ תפת 	   ÿ ‎ÿ מחו ׁµ³ @  צ 	 Ýגג ס׀ֳ שהד  קרר üüü תûק  ‏‎‏ צקס 
+תשש-¹÷¼wB>=ת                                                                                            ‏‏‏ אÛßככןw׳Ùײ6
+‎ םמכ ü Ùאת ¢«¼ >7" --* חכס ·ֵ׃ ¼ֲß וץ 
+	 תק‎   ‏‏ עûס ÛßÛ ‏ץû שפצ  ‏‎ סףע Úטא ׳בÛ תÿû üû‎ ‎  ü רקצ 
+ ףסץ ֱ שש ‎‎û ‎ש‏  פץת ץשע #!'Ý›ש   üהםכל‏‎‎‎ ÿÿÿ ûûû  ‏‏‏ ררר    ךÜז }no ¥‹•  קûר ÙÞ״ גמח ‎‎  üר û‏û  
+ קק ‎ֳֿ ßײׁ ש 
+ תü‎ צך ק ûצנ  נרû ÿ שÿû ר‏ש  עףת  ü,÷¾ֱk''""ררק‰נ   ‎                                                                                ûתת9‎‏‎iגÞÞ*
+#ÿקע ‎  	 ר  סש ואר ׀ףÝ ¾ß  ÿÿ ‏‏ÿ ספש  ץץת    ‎ לûפ נוױ Ûםב 
+		  סץף טףי ‎ ÿ ü ‎ ‎‏‎ ÿ‏צ  ü ‏ צץ  קצ   ÿ 
+  ןתר תנÿ  ÿ ‏‏‎ÿ,/ׂקü‎‎ SSS פßßß₪ׁׂׂ?
+#		 ‏üü ÿ‏‏ ÿÿÿ     ‏‏‏ ÿÿ‏ ‏û   םספ ׂס׃ אב üÿü סûפ ‏   ‏‎‎ ÿ‎   ü ÿ ת‎ÿ ‎ü ÿ‏ üתר ‎נמ üףס   ÿÿצ ש‏צ  ÿ‎‎ ‎ ‏  ‏‎ ‏‎  ‏ ÿÿ‏ 	 ןננ   ,ÝÞÞ,XXZB@@>”¬פ                                                                     עעעB©§¨{û2‏üü 	 ü‎ü ‏ÿü ‎‎û ‏    צש‎ רפש     ‏‏   רקש צûק  		 ÿתû נתע םשמ    ‏  üÿü     ÿ  ÿÿ       ÿÿÿ       ‏ עסע 	  ץתף  צעסזGGD³//.ûששש טחח  סנסÜקתתת ‎‎‎ ÿ‏‏        ûסש 
+  ‎ü כ‎ü ûüש 
+  ü ü‎ק ü  ü   ÿ   ‎ü ÿÿü  ÿ    פÿת ÿÿס צ ‏ ûן  ר‎        û קûר ‏ש  ‏ü ÿת‏    ץץס  צץס3¼¾ָk&&$Bךךי’אלÿ                                                   טיט&רששsµ«²!*תÿם           ץר  ûש 	 שû ףצ  
+  ‎פ‏   ‏ פש ÿ‎ü ÿ  ש‏ü  ÿק 	  ûתת פ‎ק ÿ   	 ‏‏  רתת ‏  ‏ÿ	 ÿ         ‏ü     ‏‏  ü   ץקÿû$־üü‏טייל üüü ÚÚÚ     ן899¼ֱֲֳ&ÿ                     ÿ  פש‏ û‎ץ 
+ 	 ÿת ץûר  ‏ü ÿ     ‏ÿÿ û‎‏    ר‏ פ‏ ‎    ‏   תת‎  	 צûש ‏ûû 
+ ÿü 
+ ‏ ‎ûת ‎‎ץ קץק  ףפף4ßßד4ױ׃״1.-1ײקפפ¦ דן
+
+
+הûÿ                       מםם#‏ü‎n÷¶¶   מני ÿ‎ü תש  ÿ  
+
+   קרÿ קרü    ÿÿ ‎ü ‎שü ק‎ש   קקר 
+ 		 עףס פשש  מעם 
+
+  ץצץ ü 	  צשר רשü  ÿ ÿ‎  ÿ   ‏  ‏  ÿ   üû‏ קתק  לץזן026¢ÛÛגמׁׂÚ     ZYZ     			פָָָ¨ֱֲֳW‏‎‎ ÿ‏‏ ÿÿÿ     ÿÿÿ ÿÿÿ ‏
+ ü  ÿ	 ף   ףשת    
+  קף  קצ ‎   ‎ÿü ü‎‏   ü דÿש ק ‏    ‎‏ צ     ÿ    שת‏ ק‎ץ   תÿ  ÿüץ תץ פצ   עץ‏ נמש    ! הץג,ׁׂײ+ û>סמעÝ÷¼ְ°Þבו־צ  ÿ‎      ÿ ‏נעע״״״=L	ױׂײק  ‏üשת ץû רפנ ü‏ ‎‎  
+     ûץÿ ÿÿ    ‏  צר  תû  ‎ü 	ÿ  ק   ÿ‏  üתש   üÿ   ü‏ ‏‏‏  ü‏‎ נספ 
+      ÿ  ÿ‎ ÿש  ü  ת    ‏ÿ  ÿ   עקס 	ץנמצׂל‎‎ü‏     yxx      םםם´´´—זחז@ ÿÿ       ÿÿ  ת‏ ‎‏     להב ‏טז פפ שץ  ÿ ‏ ש‎‎ ‎ ÿ ‏ "&    ץףן ÿאײ  זז   ‎ÿ ûû תü 	 ףצצ ‎ #ÿ :2   ײÚמ ּׁש 
+	 קר רץש     ü üת üץ  û.-$קÿÿ״Ýג Ûזם  ÿ‏כצû‏‏ 
+‏‎ ת     ‎ÿ ספע Úפן לםי ‏ ‎ÿü קüû ÿ ש
+ ת‏ ÿ  $)* תצ Ýֻֿ ‎מח ÿק   צףפ ‎‎ש   צשר ףרץ             תץש ‏ÿ ‎ÿ ûÿ ÿ  ÿ ÿÿ  ‏  צ    ‎û
+ 
+ לץגûDBE,++פפצצ      ÝÝÝ     ÿÿÿ ט !!¢גהד9ÿÿ         ÿ‏ÿ ÿ   ‏
+ 
+ +:; %86    ßײװ ׳ְֲ שהה ש‏ üש   ‎ ר‎ü ש -3 #CG  ûשצ חלג לּ םרע ףףק ü    ‎‎‎ ‎‎ü 9/+ mh( <7 עץ	 וך ·»Ü £¨¹ קת 	 תץצ 
+ ûתס ÿ 96 NG1%"ןמ גדס ¸»¿ ֹױױ  üÿ  מפר פעע   ‎‏ '%) A88 ÿ תר 	
+ ּנר ¹´³ ûמ üץ   צû ÿ	 !=F #35  ‏רנ '  ßײ־ הÊַ שפן  ‏‏    ûרק ףשצ "%! >>> עצע ִֵֵ ףלם ÿ 	 ש  שü‎ ÿק ‏  ÿÿ      ÿ‏ÿ ‎‏ÿ ü‎‎ צשר  ן,-&²EE=צפץצ          מממ מןן ךככ‏נננüûüTתûתû‎ü  ÿÿ  ÿ      ü .6 *JN צ$ ײü ק   ןÝא üןם  û‏ü ÿ ק 	! 0< 3?  * יר '  לßו תלנ  צ‏ש שק רת $ {kK RV Ú ע (/! ! ״׳׃ ״Úף     תף >" hK5 .
+ן י׃ ק    ואß זס‎   ‎ÿ 
+ ÿתû # =/. 	קÿ צ ק
+ ף   ‎פס זןך 	 פ‏ת ÿ שü &( )ER %? ך ך ‏"  רמג רטÜ תÿ  ü ר‎ÿ צûת ! ' —’– bca IEH $ ÝÜÝ בוט û‏      ‏üÿ üüü   ‏ÿ ü‎   רüףץֱ­אאאןßÝÝ אßß אßß jjj             Û±°±‰¥¥¥ûûû   פץץ 	  (- ר חÿ ל מûש 	 $+ ÿ ‎ÿ     û‎‎  ü‎ÿ  46= Ü כץÿ פ  צ  פח ק‏ס ‏ 
+ ‏סר #% =4" üץ¾ ÿװ  ‎פ  /- ְֶנ תףש  ü‎‎   # ( םׂ שנד  צף " ' ( הםם נÿ ש‎ר ü‏ת ÿÿ   רזפ 
+  ק ןממ 	 5$ Ûßג ס ת ‎ÿ שקר ‏ %-*  ׃ש קü ‎û ‏ ' %' ב״¾ פü‎ ש‎ü 	 ûÿÿ  HIO DCD ÿÿ   YRT ÝÚÙ ּׁװ ‏ ‏‏ ÿ  ‎ ‏    ÿ    ÿÿ    ‎‏צר₪פףעדכךי             ,,,             רֿ־ֿֿ			מ‏‏‏ ררר  ûûû רקל  ‎ס ץמ   קענ  תץ ‏ מ  תÿש       ‎ת ûש 		 ‏פנ ‎סע  ק ‏ף  ש ‏ ‎ץר  רûס שת  	 ‏ קר ûצ נן  		 & Ü ‏Û ‏ צרף  ‏  ÿ צ	 מ ש û פû  טע גצû כü  ק‏ ‏	  ‏  û	 û‏ ע   ÿ נ	‏ ü קÿ סûץ  ÿ‏ת ‏ 	 û 	של  ‏ ‎ תצ פו וקפ ר üü‏ ‏תû   üש   ÿü ‎üת  	       ‏ÿ ‏ ‏ תûת ‏   ‎‎‎ ÿÿ‏    ‎‎‏ץ»ׂ‎‎‎û             ׂׂׂ ׂׂׂ ׂׂׂ ׂׂׂ ֳֳֳ (((ֻ555›ררררûûû  ךךך  ûתש טחה  
+ ‏‎   ךזו ץפף ‏‏‏ ÿ ÿ    ןםכ ÚÚÚ    ÿתק ‎תש צצף תפף  
+
+ תנצ   בגß ּֿׂ    	 חזכ ÜÛß קץ 
+	 
+     חכל אוח ש‏ 
+  û חלל סצץ    ת‏‎ üÿ‏  ÿ שûת דהו סעפ  ץרש ץצק  ûÿ‎ היט סûס ü‎  	 ÿשק ךזה צףס   ‎ ‏  ‎צע כךי צקü ‎‎‎   ü ÿ  ÿ‏ שרפ ֲִֵ ־ֽֽ 
+ ÿרק Ûװׂ ֻֽֽ     		  û‏û ûüû    ÿÿÿ  קשר ‏ÿ‏ץ©Ýÿÿÿ                 JJJ ÿÿÿ ÿÿÿ ÿÿÿ ‏‏‏ ‏צצצ‎ױױױתתת!קקק תüת ‏   ‏ ûû צע שßÝ ßÊִ ךÚ׀ üרן  ü ‎ û û‏ש ÿûת תש‎ ש  ÿü סך עÜװ ס׳־ ךַׁ ‎פמ 	 שû ûשש  לכץ סüר  "   ' םם ®¯ֶ °®ֽ ננ  
+ ץצת  ü‏ü ר‏ת   ש צ Üםר ½ׂß ֿבם ף	 צ‏ ‏ ü רûפ ÿ   	 ‏ ûÿ א‎ט ַÚׂ חנן  ü ש   ûשû ü‎‎    ק קמ כב ם׀ֳ ÞÙֿ שקצ    	
+ ‎רצ  ‏ 
+ דßÜ סןכ ‏‎ »½¼ ×®« ¸¹¼ ץצק 
+ ÿû‏ ‎üü    ‎‎‎ ‏ÿÿ  ‎‏‎ש¨:9:«ÿÿÿנ                       ֿֿֿ µµµiססס‡צצצ תûû ‎  	  ü 
++ "%+ םלי טגג ÿעי  נז  ûע   ‏ü ûתû  ‎
+ ÿ&  !   ןחג ÿחÜ מז ‏ת 
+ תקר  עקמ ףרת   9-
+ ,  הדן ָֹא חט  û‏  קש ÿ ‏    ש ÿש + )$ 
+ 
+ גדכ ַ׃מ חפ ÿ תÿ 
+   ‎ףץ 
+     ףפף ֽם־ ױגÝ   סשם 	 	 רש  & ,>  ‏קק מאÞ לױֻ שפח 
+  ‏ץק  ÿץץ   כךם ÿ‏   מננ םננ ‏   ÿ  ש‎  ÿ‏ÿ   ‏‏‏ ‎ÿ‏ ü‏‏ 
+
+
+ד888h¶üüü                     ]]]                 ÿÿÿ  ×××יייj צ	‎  ÿ ע   ששש רקר üר ÿר   צ  ‏  ü‎ 	 שû ק   ‏ü   û‎ץ üקל 
+
+
+ û‎ תû  
+	 ףûפ ףר ÿ	   ע      סס    פצû ÿÿ  סענ  ששצ  ‏ש      	  üת  ק   
+ ‏ ‎û‏ ‎û‏  üת 
+ÿ ûû ÿ‎ 
+  	 שûת גתי ‎‎‎   ‎ÿû ‏ÿ‏  	
+ ץ‏ תÿ    ü  תü ‏  שץ ÿ ‏ü  שצ 	  üצ ûר  פץש  קü‏        ûûü ÿÿ  ü‏‏ תûת      ‎‏‎ קüû‏%#$PPPˆפפפל                        ===       צ			ןןן7ררר‎‎ü ÿ תû  ÿ תסנ  ‏ü   ‏ת ÿû ÿÿü ÿÿÿ ÿÿÿ ÿ   ÿ ü
+ ‏ ÿתפ  קס ‏ ÿû  ‎תû ü  
+	 נרס  ÿ  ‎ÿ   	 ûû  ‏‏  
+ שû‏ קת 
+ שü‎ פקפ  	
+  ÿ   תר‏      תת‏ ÿ‎ÿ   ‎ ‎ת   		  ץûפ נקפ עûץ ûÿ  ‏ÿ‎ ÿ‏ 
+ תüü ü‎‏ ‎‎ÿ  ÿ‎‎ שר ‏‎   üüר  ÿ    ‏‎ü צקû 	  ‏ü  	  רשת תתש  ‎‏   ‏ÿÿ ûûû   רûש ֿKLL‹Û 			 			 			 			 			 			                          ÿÿÿ BBB¸חחח£יייb	‎‎‎ÿ ‎סל ÿ	  רüץ תüף  ÿ‏ ת    ÿ‏‎  üÿ üüש ÿ ‏ת  ץ  ס  ÿ  ר   ÿשק ÿûÿ   üûû   רÿü 
+  ‎ק ÿ שü
+ תüק ‏ש ךפü  ÿÿ  צ ‏  ‏ש 	 ûÿ‏ ‏ ü  ûÿ‎ 	  שÿ רûÿ ‏ÿ  û‏ת  תץ ‎ ‎‏û  ר‏פ צש    ‎  שר  ÿ  ÿü ÿü‎   ת  ‏  ÿ ûר תûנ 
+ ûü üץש ‏ ‏û ‏   שףם ÿ  ץ    נר‎ ת צפ‏   ‏‎‎ 	 ‏  רתש ÿ‏ÿ  ü‎ü ‏Ü../§DDDֹססס                          ÿÿÿ                             קקקü§)תשת‏‏‏   ‏תû ק‎‎    ‎‎ ÿ‏‎     ‏ ‏  ‏ עתש  ÿ û ÿ ÿ‎ÿ ‏  ÿ  ÿ  ת  ÿ  üü ‎ תר ‏ת  ü  ת üÿ ü‎ÿ רûר   קפצ     ץצץ ûû‎  ףץפ  ףצף ‏û  ‎תר שקר  û    ÿ תשת   ÿ  ÿÿ ‎ ûü‎ ÿ‎    ÿר üüר  ÿצ ‎‎  	 ת ץ  ‏ץפ ‎צת   ‎ÿü ‎‎‎ ü  סת ת ü‏ ‏ÿ  ‎
+ ‎‏ש  û ‎‎ÿ ÿ‏ ‏ÿ‏ ÿ‏ÿ  ‏ת‏ ררר	ֵ ÿÿ¹עעע רשש                             ססס                              ÚCCC¶¸¹¹2%‏ץת ‏ü     ÿÿ‏ û‏ש ‏ÿ ‏        ÿ ‏ÿ   ÿü ÿ‎ק ‎ ק ‏    שת  ‎ÿ  ‎ü   	    ת ü ÿ ÿü ‏ץû ÿ ÿ 
+  û סüû קüû û  ‏  ÿ צשצ û‎ת   ÿ‎ÿ תרû קצר  קüÿ ‏  üü  ÿש  ‏ û‏ ÿ  צûû ‎ûû ‏ ÿ  
+  שר ‏û ÿץק  ‏ ÿ   ûü     קףת     לףץ   צקר  üû  ÿ ü‎ת   ר  ûü    שת תת  ü‎  ÿ ü‎   ü ü ÿ‏ÿ  קûשגztt—׃ ü‎‎                             צצצ                                  ¬םממָָֹc!
+ צץף û ‎  ש‏‏ û ÿ ‏ ‏ ÿÿ ‎‏‎  ‏  פ û ü‏     ÿÿ שממ קדÿ  מ       שת ‏ ÿ‎ ‏     .	  ע דûû Þקן חü‏ ת  רשü  	 מןס  GBB ,,.  ׀׀ׁ ÷½°   
+ םסץ  
+ קת‏ תüÿ  
+  $    סיח חÛ üÞß ר 	ü ‎ü ‏ û‎ü üüü ü   1* פת‎ ׀Ü‏ לפך ש‎ץ  שüת ‎ üÿ ק  ‏	 ‏   # ת‎ÿ קכט  חß ü ת ק û ûתצ   יךי û‎üÛSRSˆIHHֻûûû תתת                              ‏‏‏                                 תתת תûתצ˜*יטח!ת  ‎שש ץ‎ü    ÿ‎  ÿ‏  ÿ‏  ‏‏‏     ÿÿ  ‎ÿ  '>! $ ÿ‎‎ ככו זִט ינע ü‎  ‏     ÿ 	ש‏  2   ן ÿ  םט צךט כ‎û  ÿ‏   שרק  _^^ qqr  ÿ‏ ÝÝח ~ÿ »¼¶  ‎ 
+  ‏  ü‎  
+ &, )=> 
+! ‏ בגß ûױ Ùזט ûÿ     ‏ÿ‏    ü‏פ !  j^: A?5 פת‎ ¹ֹײ y® ץסû ÿ   ÿÿÿ ‏ ü ÿ ÿ 	 2; "#,  ÞÚ׳ ז־ ףבÚ  ‎û ‎‎ü   כלכ שתת״,,,³'%%¦פפפ ÿÿÿ                                     ;7B                                         84‏םGCס†„†‚ןןיC
+ ÿÿ רס‎     ‏üÿ ÿ ‎   ‏‏    & 	8% על ‎‎ 
+ ח Ýÿ üע      ‎ ‏‏    (	 : שנ כ    ÿû ךןן ץרת ÿ‎  ‎ûü צקש -&% YXT # ÿרû ‎ 02# nqf ֳֶ¸ ץףר  ‎ת פץש üÿ  ‏ 2 4 ü ע
+  צ Ù¿ֳ ÿשת ר  üü  ü ש  ‏ IG1 VO- 
+ ÿקר # ³ֻ ֲ¶ע ûÿ‏  üת   	 ÿ "% "7=   ‏  צן ׳יß ûש  תûש ÿ  ׂÛûûûר                                            		                                          	
+״IHJ”½¾¶שטךטJ	  קרש ‏‏‏ ÿ   ÿÿ            
+  הסמ ûû  	  רף‏    ÿ ÿ‏ ‏‏   ÿ   ץû ‏קצ    ר ü ץץצ  ÿ   $%$ ""   תת ‏     מםס '(&  פעצ קקת  ÿÿ   ץ   
+ זרת נü‏ 
+   üÿ ÿ   ü  ‏ ‏ ü‎û  ‏  657 
+ רךח םףף  210 ֱ¬¾ ûÿש ‏ ‎üü          סףף      ÿÿ 
+	 ‏ףת  	ûuז ÿÿÿ ÿÿÿ                                     ÿÿÿ                                         ‏‏‏ ‎‏‎‎¹)*'ןנמ‏ûÿ+שû‎ 
+ קקק  ‎‏‎ ‏   ששû  ÿÿ רüך כת 5ü$  רצ לÿ צכב ûרד ÿü  	ש ü    ע ש ׃ ׂû &‎ ר ק עקü üק   ץ  ÿ
+  	  ל ָאװ ¼Þֱ OC פ ף שüת  ֳֹֹ זםל   בßמ 
+ ü  שץך   ÞףÚ פ  ‎ ק אח ‎‏ ÿÿÿ ‎ÿף  ץ ÿ 	ÿ ‏  ֵÊױ "(S   ֿ׀Ê ח־Ü   צעץ ר‏ü   üÿ ‏‎ ‎   לז כÛ  	ףל קקץ הןג  ר   צ ‏Úimlm)))ßתתת     בוה                                         USY                                          ‎‎‎ אאÞü ׃תדהה&תûת תתת          ÿÿ ‏‏ת קש ץרש תû ‏‏ טגד ״׃״ צעק  ü    ‎ת‎ ‏ÿ    שÿק תצת ‏û  ü יü‎ Üמס ״טך חקק ץ   ש ‏ ÿ  üשפ רקף  ÿ # 	 ‏
+ ÊֽÊ  ß״ד תץק ‏ü  	
+ ת   ‏ ססף ûÿ  ‎ÿ ßÙ׳ ßֳ¹ םגß  ÿüר ‏û  ‏  ûû  זוÚ ללז  ךךי ₪ ¼¾Ü ‏ü  תש  ‏   	 ‎ÿ ‏תת ערר חיך  üûû ָָֻ ׃Êֹ ‎ממ  ‏ת׳sqn_//0ֹררר                                                     ©¥²                                          תתת ֲֳ¿ למו טטט[¼½¼|ÿ ÿ%	 תûû     üüü       ‎ÿ‎ תû  	 	  עןן ץכת    ‏  	 üר‎ ÿ  ששץ  ü  
+ 
+ ‏ ןקק מץץ ת ‏ ûÿ  ‏ ‏ 
+ ץרר רüש  363 ,.- ÿ ֲ½¿ ֹֻ׀ 
+	 ‏ שûü ‏    פ  ‎
+ רקק    ÿ נלי  תז ‏‎  רףע ÿ  ‎ ‎‎  	 
+	  ÿ ‎ ססת קר    ÿÿ תÿ ü  ü üשש      פכל  ‏רצ ÿ‎‏ 	‎Ù@B@MKI­üüüü                                                     ©¥²                                          תתת ֲֳ¿ למו  בבאWְֱֲ|ûûû(  üüü רשר      רû 	 ûףש ‏ת      ‎ ‏ÿ 	 ûתü û‏  ‎û  ‎ק ‏  ÿ    ‏  ‏ÿ ‏‏    ‎‏  ‎ ‎  ‎‏  םפנ ‏   ת ‏‎ÿ 
+ ‏  קצש  פרש ק ÿ  ÿ ‏שû ûü‏    רûי   שצפ  ÿ  
+  רצü ÿÿ   ‏ÿÿ  
+
+     ‎ü רü‎ ץûû 	  û‎ÿ ÿ  ‏ץץ  עעס ÿ 
+׳IKIz°  üüü                                                                                                                  ץץץü$$%¥‎ְְֱxףפפ/  ‎‎‎  üüü ‎  ר‎ ת  ת       ü‏ÿ צû‏  ‏ ÿ üüü ע‎ק   ÿ ן ÿ 
+  ‎ש ÿ ק שר ‏‎   ‏  ‎ץ ûû    û 	 ש‎‎ ץ  üüת מסכ ÿÿ  ‏ÿ   ÿü ‏רנ  ‏ ‏ÿ ‏ûף ‏ û‏ ÿ‏ש üת‏    שר‎ קÿ     ‎‏ üüÿ  תת û‎צ ‎ ‎ÿ    ÿÿü  üר ÿÿ   		  	 צש תץײMLOw$(%´והו                                                                                                                               ףףף    ­CCûִֵֵkץפפAששש ÿÿÿ  ששש   רשק    ÿûÿ   שÿ üû‎    ÿ  ‏ûû ‎ÿ   ÿÿ ÿü ‏ ת ÿûש ûû ü ÿ    ‎ üÿ ÿ ‎ ק‏ץ     צרצ נץס  û
+ ‎   סןמ      קרץ שü‎   û‏û ü        ÿ  ‎üÿ ת‏ü  ÿüÿ ûü‏  ‏    ‏ ץץץ ÿ     ‏  üü  ‏רפ  עםי ׂbhhhַסעע                                                                                                                                       ץץץû´FEF‹µûûû ü‎ü    ‏    üÿ  ü   ÿü‎   ‎üü  
+
+   ÿ ‎תû ÿ  		     ‎‏    פûÿ ת  פ‎  ü שü ת‏ פüץ ‏ü  ץרצ  ת מצע משפ ÿ û‏ סüק ןשצ û‏‏   ‏   ÿ ÿÿÿ ÿü‎      ûשû צקת   ‏  ‏ÿ תü    û‎ צש‎ 	           üûû ÿתש  ‎ת üר ‏û 
+ֹvrma0.,ַננס                                                                                                                                               שששש¾YYYו°°°ת׳Ù״+ÿÿÿ& פץץ ש  ÿ  ‏  ÿ üüÿ û‏    ףפפ  ‏û  ‎ ÿ û 
+‎ע ‏ צ‏ü ‏ ש‎ ק  ת    ‎ü ÿÿ‏ ‎ ÿץ    ûרק ‏ ‏ת ü‎ ûÿ קÿ שûû  ‏ ‏ת‏ ‎ÿ ÿü   ררü ÿ‏‎     ‎‎ü ÿ‏  תר‎  	 ûûת ת‏‏ תשש ‎   שüû  
+	 ןץק ÿשש  ‏‎ÿ ÿ‎ר üת‏Ý4;1ֲdb`‚אגגד                                                                                                                                                          תתתשׂe>=>—עפףÜ‎‏‎  	 צ‏ת 	
+  ש‎‏   שרש תרת ‏ÿ    ÿÿ  	 ‏ÿ  û ש ‏    ‎ÿÿ ‎   ‎  ÿ ÿ ‎תü 	 ü  ת ûר ÿü תûû ‏‎‎     ‎‏ÿ ‏    ü ÿ ü‏ÿ 	
+  ‏ÿÿ ÿ‎‏ ÿ‎ÿ  ÿ   ÿÿÿ ÿÿÿ üüû ‏ÿü    ÿ‎ ü‏ת ת‎ש קצר רשû 
+  תרת ‏ 	ֹ897›p//.אעעף                                                                                                                                                                  üüü ‏‏‏ם™a`aÞ»÷÷cטךיNÿ  ץ‎ü ÿתת  ‎  רûû 	 ‎‏‎  ûקצ ‏‏ ‏‏ שףת 3" =5  Ùßמ ֹ׃ß מנר ‎
+ 	 ררת  ‎  ‎ ûÿ ÿ  /  ץ ßסף Ýענ סתÿ צü ÿû  ÿ‏  ‏ 	ÿ ÿ ‏ ‎       דטז ״זÝ ץשף  ü‎ ר‎û  ‎ÿû ü‏ÿ  ‎ תתÿ ‏‏û  	 ÿ	 ‏ש‏ קתת תקק  ü‎‏ÝÊTTTÝßßֳשששרששש                                                                                                                                                                              ‎‎‎ק³†††־‚„„״זםמM  ‏(צץר ÿÿ    üü‏ ת‎û ‎ ûûû 
+ ‎üü ! KJ1 /(   ץ נר גּ״ ûשת 	  ‏ש  üת 	   /  ף נפ צאÙ ץספ ÿüÿ   תÿ‏  ‎     ‏   -),    ü	 ׂױ־ ûüû  תüÿ   ÿ üüÿ  ÿ ÿ       שת  קקר ÿ     
+ ‎‎‏‏רÿ Ý672§ץץפ‘			ןÿÿÿÿ                                                                                                                                                                                            ÿÿÿÿ   ה!""}FII‡תקר¬ד‎ש‎‎ עצש קû‎   ש‎‏ ü‏  סû‎ $+' ,-) עןכ סןכ  0)#  üק צלך ÿ 
+ ‎‏ ‎  % ü ‎ 
+     תü    	   ÿ   & ת עש  $%  üÿת      ÿ üÿ‎ ‎ÿÿ    תש  ÿ‏    
+   רü‏Ü	xtra1//שתתמÿÿÿÿ                                                                                                                                                                                                        ÿÿÿתתתת£!$$¹ÿתûiבßÝ-
+	=רקת‎ÿÿ ÿ  û‎ש    ‏  ת  עפס ÿ   ÿ  ûצק  ü‎     ü‎ü  ÿ   ‏ ûÿ  ש‏   ‏  ת‏  üÿ  ÿ ÿ  ‎  ‎ÿ  ‏  ü  ‎ÿ‏ ‎ ÿ ÿ     ÿ ÿ   ûרת ÿÿÿ  ÿ    ‎‎‎     ‎‎‏     ÿü  ששû   פׁFIF‹ÙÜÚ·פץץתÿÿÿ                                                                                                                                                                                                                         ‏‏‏ךüûש*TללןSיטם"ץצץ  ÿÿ ‎‎ 
+  ׀ÝÜ ֳ¿	 9  טהו ׳ֳֽ ףק  מ‏ לשק ‎ü ‏ÿ קÿ Ýםמ  
+ 
+ ûÿ‏ הףנ העע ף ק שÿÿ     ‎ ÿ זמט ÛÛÙ   כמך ׳כ׀ תÿת   ‎ ÿ   ‎   ‎ÿ ‎ü   ץûק ÿ נ$ 'ײ¦DD8÷566ÛÊÊ                                                                                                                                                                                                                                     נננײwvu‚ֶַÊ±טיך:ßגדcייך%תתצ 
+ü‏  	
+ ויק ¡±ֵ ױ" 
+ זול ״כע ‎  ערר  ‏ÿÿ ü ‎ סÿ ״ףמ קקק  ‏
+ חפפ גרף ש   ÿ‏   ÿÿ û‎ü התכ רÞ׀ Üןד   םןם ב ם   û‏‏ ‏ÿ     תת‎ קקצץÿ‏‏‎Ù635’ֶÞÞאױ ררר                                                                                                                                                                                                                                           פפפ ססעׁ^_Zׁ±¯­ְְםז-CÝÝÞOףשüץר‎ Þק לÛצ ÿק סשר 	  צצש    ÿ    ש‏ÿ ש‏  נ  Þÿק ‏עק   ÿ
+ ‎‏ü  ‎‏   ÿ  ‎ת ק‏û פÿ‏  פÿם Ýטט  ÿ  ‎ ü‏‏ תü‏  ÿ  תûü ÿÿÿ ררת‏ך...­גדגֲ27/׀\]YÚ°§¶                                                                                                                                                                                                                                                            ףעף רשû׳׳112ֶ‏‏ÿ©0000ֽֽֽGאאא"‏ ÿ$שתש     	 ‎ û קפת ‏‏   ‎‎‎     ÿü‏  ‏ÿ    ÿ‎û ‏‎‎        ‎‏‎ üû‏    תû üשת ÿÿ   ü‏‎ ü‏‏  ÿÿ  תתש ÿÿÿ    ß$$$Ú///¼ֽׂׂׂ000״זזזחשרש עעף                                                                                                                                                                                                                                                                              ÿÿÿ צצצההKKK¾ההה¨P׃ֿֿAביך קר   ÿ    ‏ ‎ÿ  ûû‏ ÿ          קüü   ‏ ‎ ‏ÿ ‏   ‏  ‏‏ÿ ‏‏‏ üûû    
+	
+   û‎ ‏ü‎ ÿ ששש    וÿ"""ׁ:::½יייֲעעעזJJJטדדדÿצצצ ÿÿÿ                                                                                                                                                                                                                                                                                                 ‎‎‎ פפפ קקקזז׃ֻּׁ—wrp	קשû7¿ֱֲAחחז&ץשצקףרתצת üÿ‎ ש   	  ‎‎‏   ‎ÿÿ ÿ‏ ‏ ‏ ‏ÿ    üüü תרש סתû        חםז0%!ׂ
+
+
+¿···Þמ555כׂׂׂÿÊÊÊ פפפ ‎‎‎                                                                                                                                                                                                                                                                                                                  üüü תתתצשששג''' רתûÙֿׁׂ¯ללכxxi!ֿֿ׀1מןןןךכעףערץקרץקרתק	üÿרÿ     ÿ  ÿ‏שûתרו*'(ֿ+)*Ú ז„ƒ„ןשקקÿÿÿ ‎‎‎ ררר ûûû                                                                                                                                                                                                                                                                                                                                       תתת תתû ‏‏‏ףÿÿÿף חÜÜÝָûûûרףפששרûרת   שÿ‏–('(ÿPRR‏קרק    ÿ    ÿÿ‎ת‏    ÿ‏ÿ ‎‎‎ üüü                                                                                                                                                                                   ÿÿ‚°ˆ¬^-    IEND®B`‚

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="220dp"
+              android:background="#efefef">
+<LinearLayout
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="220dp"
+              android:background="@drawable/xml_common_cardbg"
+              android:padding="10dp"
+              android:gravity="center"
+              android:layout_marginBottom="5dp">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/card4"
+            android:orientation="vertical">
+    <RelativeLayout
+            android:id="@+id/part_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp">
+            <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:textColor="@color/white"
+                    android:text="周国栋"/>
+    </RelativeLayout>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="165dp"
+                android:layout_marginTop="18dp"
+                >
+            <TextView
+                    android:id="@+id/organization"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:textSize="16dp"
+                    android:text="@string/common_jiangnandaxue"
+                    android:textColor="@color/card4_text"
+                    android:singleLine="true"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1.5dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@color/card4_text"/>
+            
+            <LinearLayout
+                    android:id="@+id/part_add"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Add :"
+                        android:textColor="@color/card4_text"
+                        android:textSize="@dimen/text_size_11sp"/>
+                <TextView
+                        android:id="@+id/address"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/common_university_add"
+                        android:textColor="@color/card4_text"
+                        android:textSize="@dimen/text_size_10sp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/part_tel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tel :"
+                    android:textColor="@color/card4_text"
+                    android:textSize="@dimen/text_size_11sp"/>
+            <TextView
+                    android:id="@+id/telephone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="182****0912"
+                    android:textColor="@color/card4_text"
+                    android:textSize="@dimen/text_size_11sp"/>
+
+        </LinearLayout>
+
+            <LinearLayout
+                    android:id="@+id/part_email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Email :"
+                        android:textColor="@color/card4_text"
+                        android:textSize="@dimen/text_size_11sp"/>
+                <TextView
+                        android:id="@+id/email"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1980586727@qq.com"
+                        android:textColor="@color/card4_text"
+                        android:textSize="@dimen/text_size_11sp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Job :"
+                        android:textColor="@color/card4_text"
+                        android:textSize="@dimen/text_size_11sp"/>
+                <TextView
+                        android:id="@+id/job"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/android_dev"
+                        android:textColor="@color/card4_text"
+                        android:textSize="@dimen/text_size_10sp"/>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    </LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/library/Genius-Android/Genius-Android.iml" filepath="$PROJECT_DIR$/library/Genius-Android/Genius-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/lib_float/lib_float.iml" filepath="$PROJECT_DIR$/library/lib_float/lib_float.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWork.iml" filepath="$PROJECT_DIR$/myWork.iml" />
+    </modules>
+  </component>
+</project>

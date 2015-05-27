@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/xml_common_cardbg"
+            android:padding="8dp">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/card1"
+                android:gravity="bottom">
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:orientation="horizontal">
+                <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        >
+                    <TextView
+                            android:id="@+id/name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:layout_centerInParent="true"
+                            android:textColor="#0d226a"
+                            android:textSize="30sp"/>
+                    <TextView
+                            android:id="@+id/job"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/name"
+                            android:layout_alignLeft="@id/name"
+                            android:text=""
+                            android:textColor="#0d226a"
+                            android:textSize="18sp"
+                            android:singleLine="true"
+                            />
+
+                </RelativeLayout>
+                <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp">
+                    <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="TEL :"
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+                        <TextView
+                                android:id="@+id/telephone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="18262280912"
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Email :"
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+                        <TextView
+                                android:id="@+id/email"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Organ :"
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+                        <TextView
+                                android:id="@+id/organization"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+
+                    </LinearLayout>
+                    <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="ADD :"
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+                        <TextView
+                                android:id="@+id/address"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textColor="#0d226a"
+                                android:textSize="@dimen/card1_detail_text_size_big"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:genius="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="4dp"
+        android:background="@color/white">
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/send_choose"
+            android:textSize="22sp"
+            android:layout_marginBottom="4dp"/>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            >
+        <net.qiujuer.genius.widget.GeniusCheckBox
+                android:id="@+id/select_all"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                genius:g_theme="@array/StrawberryIce"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/send_select_all"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:background="@drawable/xml_add_contact_bg">
+
+        <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                >
+            <net.qiujuer.genius.widget.GeniusCheckBox
+                    android:id="@+id/cname"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    genius:g_theme="@array/Dark"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="@string/keyword_name"/>
+
+        </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/csex"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_sex"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cnation"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_nation"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cnationality"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_nationality"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cbirthday"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_birthday"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cidnum"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_id_num"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/ctel"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_telephone"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cemail"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keywords_email"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cfamily_address"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_family_address"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/ccurrent_address"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_current_address"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cjob"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_job"/>
+
+            </LinearLayout>
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/corganization"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_organization"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/corgan_address"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_organ_address"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    >
+                <net.qiujuer.genius.widget.GeniusCheckBox
+                        android:id="@+id/cpolitical_statue"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        genius:g_theme="@array/Dark"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="@string/keyword_politcal_status"/>
+
+            </LinearLayout>
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <Button
+            android:id="@+id/send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:padding="10dp"
+            android:text="@string/send_msg"
+            android:background="@drawable/xml_selector_btn_bg"/>
+
+</LinearLayout>

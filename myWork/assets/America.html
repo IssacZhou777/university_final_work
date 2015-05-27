@@ -1,0 +1,302 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>New Document</title>
+<meta http-equiv="content-type" content="text/html; charset=gbk" />
+<style type="text/css">
+#letter_pingyin {
+	position: absolute;
+	left: 33px;
+	top: 514px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#name_pingyin {
+	position: absolute;
+	left: 33px;
+	top: 549px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_city {
+	position: absolute;
+	left: 33px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#nation {
+	position: absolute;
+	left: 33px;
+	top: 583px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_day_1 {
+	position: absolute;
+	left: 327px;
+	top: 548px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_day_2 {
+	position: absolute;
+	left: 345px;
+	top: 548px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_month_1 {
+	position: absolute;
+	left: 363px;
+	top: 548px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_month_2 {
+	position: absolute;
+	left: 380px;
+	top: 548px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_year_3 {
+	position: absolute;
+	left: 397px;
+	top: 548px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_year_4 {
+	position: absolute;
+	left: 415px;
+	top: 548px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_day_1 {
+	position: absolute;
+	left: 327px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_day_2 {
+	position: absolute;
+	left: 344px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_month_1 {
+	position: absolute;
+	left: 361px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_month_2 {
+	position: absolute;
+	left: 378px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_year_3 {
+	position: absolute;
+	left: 397px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#visa_issued_year_4 {
+	position: absolute;
+	left: 413px;
+	top: 687px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#passport_no {
+	position: absolute;
+	left: 33px;
+	top: 617px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#male {
+	position: absolute;
+	left: 110px;
+	top: 268px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#letter_pingyin2 {
+	position: absolute;
+	left: 33px;
+	top: 984px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#name_pingyin2 {
+	position: absolute;
+	left: 33px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#nation2 {
+	position: absolute;
+	left: 33px;
+	top: 1053px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_day_3 {
+	position: absolute;
+	left: 324px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_day_4 {
+	position: absolute;
+	left: 341px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_month_3 {
+	position: absolute;
+	left: 360px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_month_4 {
+	position: absolute;
+	left: 376px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_year_1 {
+	position: absolute;
+	left: 394px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#birth_date_year_2 {
+	position: absolute;
+	left: 411px;
+	top: 1018px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+
+#sex {
+	position: absolute;
+	left: 342px;
+	top: 583px;
+	white-space: nowrap;
+	color: #ff0000;
+}
+</style>
+<script type="text/javascript">
+	window.onload = function() {
+		eval("var jsonText = " + window.demo.getAmericaJson());
+		document.getElementById("letter_pingyin").innerHTML = jsonText.letterPinyin;
+		document.getElementById("name_pingyin").innerHTML = jsonText.namePinyin;
+		document.getElementById("visa_issued_city").innerHTML = jsonText.placeOfIssuePinyin;
+		document.getElementById("nation").innerHTML = jsonText.nation;
+		document.getElementById("birth_date_day_1").innerHTML = jsonText.birthday1;
+		document.getElementById("birth_date_day_2").innerHTML = jsonText.birthday2;
+		document.getElementById("birth_date_month_1").innerHTML = jsonText.birthmonth1;
+		document.getElementById("birth_date_month_2").innerHTML = jsonText.birthmonth2;
+		document.getElementById("birth_date_year_3").innerHTML = jsonText.birthyear3;
+		document.getElementById("birth_date_year_4").innerHTML = jsonText.birthyear4;
+		document.getElementById("visa_issued_day_1").innerHTML = "";
+		document.getElementById("visa_issued_day_2").innerHTML = "";
+		document.getElementById("visa_issued_month_1").innerHTML = "";
+		document.getElementById("visa_issued_month_2").innerHTML = "";
+		document.getElementById("visa_issued_year_3").innerHTML = "";
+		document.getElementById("visa_issued_year_4").innerHTML = "";
+		document.getElementById("passport_no").innerHTML = jsonText.passportNo;
+		document.getElementById("letter_pingyin2").innerHTML = jsonText.letterPinyin;
+		document.getElementById("name_pingyin2").innerHTML = jsonText.namePinyin;
+		document.getElementById("nation2").innerHTML = "CHINA";
+		document.getElementById("birth_date_day_3").innerHTML = jsonText.birthday1;
+		document.getElementById("birth_date_day_4").innerHTML = jsonText.birthday2;
+		document.getElementById("birth_date_month_3").innerHTML = jsonText.birthmonth1;
+		document.getElementById("birth_date_month_4").innerHTML = jsonText.birthmonth2;
+		document.getElementById("birth_date_year_1").innerHTML = jsonText.birthyear3;
+		document.getElementById("birth_date_year_2").innerHTML = jsonText.birthyear4;
+		var sex = jsonText.sex;
+		if (sex == "男") {
+			document.getElementById("sex").innerHTML = 'MALE';
+		} else if (sex == "女") {
+			document.getElementById("sex").innerHTML = 'FEMALE';
+		}
+	}
+</script>
+</head>
+
+<body>
+	<div
+		style="background-image: url(file:///android_asset/America.jpg); background-repeat: no-repeat; width: 576px; height: 1085px;">
+		<div id="letter_pingyin"></div>
+		<div id="name_pingyin"></div>
+		<div id="visa_issued_city"></div>
+		<div id="nation"></div>
+		<div id="birth_date_day_1"></div>
+		<div id="birth_date_day_2"></div>
+		<div id="birth_date_month_1"></div>
+		<div id="birth_date_month_2"></div>
+		<div id="birth_date_year_3"></div>
+		<div id="birth_date_year_4"></div>
+		<div id="visa_issued_day_1"></div>
+		<div id="visa_issued_day_2"></div>
+		<div id="visa_issued_month_1"></div>
+		<div id="visa_issued_month_2"></div>
+		<div id="visa_issued_year_3"></div>
+		<div id="visa_issued_year_4"></div>
+		<div id="passport_no"></div>
+		<div id="letter_pingyin2"></div>
+		<div id="name_pingyin2"></div>
+		<div id="nation2"></div>
+		<div id="birth_date_day_3"></div>
+		<div id="birth_date_day_4"></div>
+		<div id="birth_date_month_3"></div>
+		<div id="birth_date_month_4"></div>
+		<div id="birth_date_year_1"></div>
+		<div id="birth_date_year_2"></div>
+		<div id="sex"></div>
+	</div>
+</body>
+</html>

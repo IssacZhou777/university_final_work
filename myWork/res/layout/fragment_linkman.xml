@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fab="http://schemas.android.com/apk/res/edu.jiangnan.dm"
+              xmlns:genius="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+        android:background="#efefef">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <RelativeLayout
+                android:id="@+id/search_raw"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:visibility="gone">
+            <net.qiujuer.genius.widget.GeniusEditText
+                    android:id="@+id/search"
+                    android:hint="@string/contact_search"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:textSize="@dimen/edit_text_size"
+                    genius:g_borderWidth="2dp"
+                    genius:g_fieldStyle="line"
+                    genius:g_theme="@array/Dark"
+                    />
+            <Button
+                    android:id="@+id/btn_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/search_2"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+        <edu.jiangnan.dm.view.PullToRefreshListView
+                android:id="@+id/list"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:paddingBottom="20dp"
+                >
+
+        </edu.jiangnan.dm.view.PullToRefreshListView>
+
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom">
+        <com.example.lib_float.FloatingActionsMenu
+                android:id="@+id/menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                fab:fab_addButtonColorNormal="@color/blue_semi_transparent"
+                fab:fab_addButtonColorPressed="@color/blue_semi_transparent_pressed"
+                fab:fab_addButtonSize="normal"
+                fab:fab_addButtonPlusIconColor="@color/white"
+                fab:fab_addButtonStrokeVisible="false"
+                fab:fab_expandDirection="left"
+                android:layout_marginTop="16dp"
+                >
+
+            <com.example.lib_float.FloatingActionButton
+                    android:id="@+id/btn_input"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    fab:fab_colorNormal="@color/white"
+                    fab:fab_icon="@drawable/write"
+                    fab:fab_colorPressed="@color/white_pressed"/>
+
+            <com.example.lib_float.FloatingActionButton
+                    android:id="@+id/btn_scan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    fab:fab_colorNormal="@color/white"
+                    fab:fab_icon="@drawable/qr_code"
+                    fab:fab_colorPressed="@color/white_pressed"/>
+
+            <com.example.lib_float.FloatingActionButton
+                    android:id="@+id/menu_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    fab:fab_colorNormal="@color/white"
+                    fab:fab_icon="@drawable/search"
+                    fab:fab_colorPressed="@color/white_pressed"/>
+
+        </com.example.lib_float.FloatingActionsMenu>
+    </RelativeLayout>
+
+</RelativeLayout>
