@@ -18,16 +18,16 @@
     <output url="file://$MODULE_DIR$/bin/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="universal-image-loader-1.9.0" level="project" />
+    <orderEntry type="module" module-name="Genius-Android" />
+    <orderEntry type="module" module-name="lib_float" />
     <orderEntry type="library" name="android-support-v4" level="project" />
     <orderEntry type="library" name="nineoldandroids-2.4.0" level="project" />
-    <orderEntry type="module" module-name="Genius-Android" />
+    <orderEntry type="library" name="universal-image-loader-1.9.0" level="project" />
     <orderEntry type="library" name="zxing" level="project" />
-    <orderEntry type="module" module-name="lib_float" />
   </component>
 </module>

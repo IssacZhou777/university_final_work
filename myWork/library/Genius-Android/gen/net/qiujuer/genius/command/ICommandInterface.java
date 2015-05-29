@@ -2,7 +2,7 @@
 
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: F:\\大四下\\workspace\\myWork\\library\\Genius-Android\\src\\net\\qiujuer\\genius\\command\\ICommandInterface.aidl
+ * Original file: E:\\git_source\\university_final_work\\myWork\\library\\Genius-Android\\src\\net\\qiujuer\\genius\\command\\ICommandInterface.aidl
  */
 package net.qiujuer.genius.command;
 // Declare any non-default types here with import statements

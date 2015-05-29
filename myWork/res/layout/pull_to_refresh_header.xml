@@ -43,14 +43,15 @@
         android:visibility="gone"
         android:layout_gravity="center"
         android:gravity="center"
-        android:src="@drawable/icon"
+        android:src="@drawable/icon_pim"
         />
     <TextView
         android:id="@+id/pull_to_refresh_text"
         android:text="@string/pull_to_refresh_tap_label"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textAppearance="?android:attr/textAppearanceSmall"
         android:textStyle="bold"
         android:paddingTop="5dip"
+        android:textColor="@color/blue_semi_transparent_pressed"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

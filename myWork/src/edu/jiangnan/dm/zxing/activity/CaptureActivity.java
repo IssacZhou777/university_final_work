@@ -129,15 +129,16 @@ public class CaptureActivity extends Activity implements Callback {
 			String Json = SecurityUtils.decodeValue(Constants.KEY_ENCODE, resultString);
 			ContactModel contactModel = new ContactModel();
 			contactModel = GetDataUtils.getContactModelFromJsonStr(Json);
-			boolean isExist = false;
-			isExist = GetDataUtils.isContactExist(this, contactModel.getTelephone());
-			if (GetDataUtils.checkContactModel(contactModel) == Constants.STATE_OK && !isExist) {
-				GetDataUtils.putData2DB(this, contactModel);
-			} else if (isExist) {
-				resultString = "The Card has Exsited!";
+			if (GetDataUtils.checkContactModel(contactModel) == Constants.STATE_OK) {
+				if ( GetDataUtils.isContactExist(this, contactModel.getTelephone()) ) {
+					resultString = "The Card has Exsited!";
+				} else {
+					GetDataUtils.putData2DB(this, contactModel);
+				}
 			} else {
 				resultString = "The Picture is illegal or scanning wrong!";
 			}
+
 			Intent resultIntent = new Intent();
 			Bundle bundle = new Bundle();
 			bundle.putString("result", resultString);
