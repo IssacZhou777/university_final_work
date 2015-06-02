@@ -1,0 +1,88 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.jiangnan.dm"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.send_sms"/>
+    <uses-permission android:name="android.permission.camera"/>
+    <uses-permission android:name="android.permission.HARDWARE_TEST"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission."/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.call_phone"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+    <application
+            android:allowBackup="true"
+            android:label="@string/app_name"
+            android:icon="@drawable/icon_pim"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+
+        <activity android:name=".activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".activity.MainActivity">
+        </activity>
+
+        <activity
+                android:name=".tablewebviews.TableModelActivity"
+                >
+        </activity>
+        <activity
+                android:name=".tablewebviews.TableAmerica">
+        </activity>
+
+        <activity
+                android:name=".activity.AddInfo">
+        </activity>
+
+        <activity
+                android:name=".activity.AddContact">
+        </activity>
+
+        <activity
+                android:name=".activity.ChooseTableActivity">
+        </activity>
+
+        <activity
+                android:name=".tablewebviews.TableChina">
+        </activity>
+
+        <activity
+                android:name=".activity.SendMyInfoActivity">
+        </activity>
+
+        <activity
+                android:name=".activity.MyCardActivty"
+                android:screenOrientation="landscape"
+
+                android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen">
+        </activity>
+
+        <activity
+                android:configChanges="orientation|screenSize"
+                android:name="edu.jiangnan.dm.zxing.activity.CaptureActivity"
+                android:screenOrientation="portrait"
+                android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+                android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+
+        <activity
+                android:name=".activity.DeveloperInfoActivity"
+                android:theme="@android:style/Theme.Translucent.NoTitleBar"
+                android:launchMode="singleTask">
+        </activity>
+    </application>
+
+</manifest>

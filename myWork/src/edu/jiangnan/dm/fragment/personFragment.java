@@ -147,6 +147,15 @@ public class personFragment extends Fragment {
 		mJob = (TextView) root.findViewById(R.id.job);
 		mOrganization = (TextView) root.findViewById(R.id.organization);
 		mMenu = (FloatingActionsMenu) root.findViewById(R.id.menu);
+
+		TextView seeMore = (TextView) root.findViewById(R.id.more);
+		seeMore.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				Intent intentAddInfo = new Intent(getActivity(),AddInfo.class);
+				startActivityForResult(intentAddInfo, CODE_ADDED);
+			}
+		});
 }
 
 

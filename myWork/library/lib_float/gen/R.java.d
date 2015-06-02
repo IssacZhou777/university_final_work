@@ -1,0 +1,21 @@
+E:\git_source\university_final_work\myWork\library\lib_float\gen\com\example\lib_float\R.java \
+ : E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-hdpi\fab_bg_mini.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-hdpi\fab_bg_normal.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-hdpi\ic_launcher.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-ldpi\ic_launcher.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-mdpi\fab_bg_mini.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-mdpi\fab_bg_normal.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-mdpi\ic_launcher.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xhdpi\fab_bg_mini.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xhdpi\fab_bg_normal.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xhdpi\ic_launcher.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xxhdpi\fab_bg_mini.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xxhdpi\fab_bg_normal.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xxxhdpi\fab_bg_mini.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\drawable-xxxhdpi\fab_bg_normal.png \
+E:\git_source\university_final_work\myWork\library\lib_float\res\layout\main.xml \
+E:\git_source\university_final_work\myWork\library\lib_float\res\values\attrs.xml \
+E:\git_source\university_final_work\myWork\library\lib_float\res\values\dimens.xml \
+E:\git_source\university_final_work\myWork\library\lib_float\res\values\ids.xml \
+E:\git_source\university_final_work\myWork\library\lib_float\res\values\strings.xml \
+E:\git_source\university_final_work\myWork\library\lib_float\bin\AndroidManifest.xml \

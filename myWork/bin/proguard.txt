@@ -1,0 +1,121 @@
+# view res/layout/activity_add_contact.xml #generated:139
+# view res/layout/activity_choose_card.xml #generated:8
+# view res/layout/activity_choose_table.xml #generated:33
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/fragment_linkman.xml #generated:76
+# view res/layout/fragment_linkman.xml #generated:84
+# view res/layout/fragment_linkman.xml #generated:92
+# view res/layout/fragment_person.xml #generated:299
+# view res/layout/fragment_person.xml #generated:306
+# view res/layout/fragment_person.xml #generated:313
+# view res/layout/fragment_person.xml #generated:321
+-keep class com.example.lib_float.FloatingActionButton { <init>(...); }
+
+# view res/layout/fragment_linkman.xml #generated:62
+# view res/layout/fragment_person.xml #generated:285
+-keep class com.example.lib_float.FloatingActionsMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class edu.jiangnan.dm.activity.AddContact { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class edu.jiangnan.dm.activity.AddInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class edu.jiangnan.dm.activity.ChooseTableActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class edu.jiangnan.dm.activity.DeveloperInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class edu.jiangnan.dm.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class edu.jiangnan.dm.activity.MyCardActivty { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class edu.jiangnan.dm.activity.SendMyInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class edu.jiangnan.dm.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class edu.jiangnan.dm.tablewebviews.TableAmerica { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class edu.jiangnan.dm.tablewebviews.TableChina { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class edu.jiangnan.dm.tablewebviews.TableModelActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:21
+# view res/layout/activity_main.xml #generated:76
+-keep class edu.jiangnan.dm.view.CustomImageView { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:1
+-keep class edu.jiangnan.dm.view.DragLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:60
+-keep class edu.jiangnan.dm.view.MyRelativeLayout { <init>(...); }
+
+# view res/layout/fragment_linkman.xml #generated:42
+-keep class edu.jiangnan.dm.view.PullToRefreshListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class edu.jiangnan.dm.zxing.activity.CaptureActivity { <init>(...); }
+
+# view res/layout/camera.xml #generated:12
+-keep class edu.jiangnan.dm.zxing.view.ViewfinderView { <init>(...); }
+
+# view res/layout/activiity_send_my_info.xml #generated:114
+# view res/layout/activiity_send_my_info.xml #generated:133
+# view res/layout/activiity_send_my_info.xml #generated:152
+# view res/layout/activiity_send_my_info.xml #generated:171
+# view res/layout/activiity_send_my_info.xml #generated:190
+# view res/layout/activiity_send_my_info.xml #generated:209
+# view res/layout/activiity_send_my_info.xml #generated:22
+# view res/layout/activiity_send_my_info.xml #generated:228
+# view res/layout/activiity_send_my_info.xml #generated:247
+# view res/layout/activiity_send_my_info.xml #generated:265
+# view res/layout/activiity_send_my_info.xml #generated:284
+# view res/layout/activiity_send_my_info.xml #generated:303
+# view res/layout/activiity_send_my_info.xml #generated:57
+# view res/layout/activiity_send_my_info.xml #generated:76
+# view res/layout/activiity_send_my_info.xml #generated:95
+# view res/layout/activity_addinfo.xml #generated:77
+# view res/layout/activity_addinfo.xml #generated:93
+-keep class net.qiujuer.genius.widget.GeniusCheckBox { <init>(...); }
+
+# view res/layout/activity_add_contact.xml #generated:101
+# view res/layout/activity_add_contact.xml #generated:39
+# view res/layout/activity_add_contact.xml #generated:51
+# view res/layout/activity_add_contact.xml #generated:64
+# view res/layout/activity_add_contact.xml #generated:76
+# view res/layout/activity_add_contact.xml #generated:88
+# view res/layout/activity_addinfo.xml #generated:106
+# view res/layout/activity_addinfo.xml #generated:125
+# view res/layout/activity_addinfo.xml #generated:159
+# view res/layout/activity_addinfo.xml #generated:190
+# view res/layout/activity_addinfo.xml #generated:218
+# view res/layout/activity_addinfo.xml #generated:237
+# view res/layout/activity_addinfo.xml #generated:256
+# view res/layout/activity_addinfo.xml #generated:275
+# view res/layout/activity_addinfo.xml #generated:294
+# view res/layout/activity_addinfo.xml #generated:313
+# view res/layout/activity_addinfo.xml #generated:332
+# view res/layout/activity_addinfo.xml #generated:351
+# view res/layout/activity_addinfo.xml #generated:38
+# view res/layout/fragment_linkman.xml #generated:20
+-keep class net.qiujuer.genius.widget.GeniusEditText { <init>(...); }
+
+# view res/layout/activity_add_contact.xml #generated:11
+# view res/layout/activity_add_contact.xml #generated:199
+# view res/layout/activity_add_contact.xml #generated:217
+# view res/layout/activity_add_contact.xml #generated:35
+# view res/layout/activity_choose_table.xml #generated:18
+-keep class net.qiujuer.genius.widget.GeniusTextView { <init>(...); }
+
+# onClick res/layout/activity_image.xml #generated:98
+-keepclassmembers class * { *** onSave(...); }
+

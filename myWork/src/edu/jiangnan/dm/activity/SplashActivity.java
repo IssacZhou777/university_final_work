@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import android.view.KeyEvent;
 import edu.jiangnan.dm.R;
 
 public class SplashActivity extends Activity {
@@ -19,5 +20,13 @@ public class SplashActivity extends Activity {
 				finish();
 			}
 		},1500);
+	}
+
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK) {
+			return true;
+		}
+		return false;
 	}
 }
